@@ -5,6 +5,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Main {
+    public static String calc(String input){
+        return input;
+    }
     public static void main(String[] args)  {
 
         String arithmetic;
